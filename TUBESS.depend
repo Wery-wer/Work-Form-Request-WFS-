@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1672374153 source:d:\telkom university\semester 3\struktur data\tubes\tubes 17\tubess\job.cpp
+	"wrf.h"
+
+1672374139 d:\telkom university\semester 3\struktur data\tubes\tubes 17\tubess\wrf.h
+	<iomanip>
+	<iostream>
+
+1672374165 source:d:\telkom university\semester 3\struktur data\tubes\tubes 17\tubess\main.cpp
+	"wrf.h"
+
+1672374185 source:d:\telkom university\semester 3\struktur data\tubes\tubes 17\tubess\noc.cpp
+	"wrf.h"
+
+1672068587 source:d:\telkom university\semester 3\struktur data\tubes\tubes 17\tubess\rel.cpp
+	"wrf.h"
+
